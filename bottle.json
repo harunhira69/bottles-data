@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "brand": "Aquafina",
+    "size": "500ml",
+    "price": 20,
+    "weight": "520g",
+    "color": "Blue",
+    "hotSupport": false,
+    "image": "https://example.com/images/aquafina.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "Mum",
+    "size": "1L",
+    "price": 30,
+    "weight": "1.05kg",
+    "color": "Transparent",
+    "hotSupport": false,
+    "image": "https://example.com/images/mum.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "Fiji",
+    "size": "750ml",
+    "price": 120,
+    "weight": "770g",
+    "color": "Light Blue",
+    "hotSupport": false,
+    "image": "https://example.com/images/fiji.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "Kinley",
+    "size": "1.5L",
+    "price": 40,
+    "weight": "1.55kg",
+    "color": "Clear",
+    "hotSupport": true,
+    "image": "https://example.com/images/kinley.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "Evian",
+    "size": "330ml",
+    "price": 150,
+    "weight": "350g",
+    "color": "White",
+    "hotSupport": true,
+    "image": "https://example.com/images/evian.jpg"
+  }
+]
