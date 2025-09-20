@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "brand": "Aquafina",
+    "size": "500ml",
+    "price": 20,
+    "weight": "520g",
+    "color": "Blue",
+    "hotSupport": false,
+    "image": "https://example.com/images/aquafina.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "Mum",
+    "size": "1L",
+    "price": 30,
+    "weight": "1.05kg",
+    "color": "Transparent",
+    "hotSupport": false,
+    "image": "https://example.com/images/mum.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "Fiji",
+    "size": "750ml",
+    "price": 120,
+    "weight": "770g",
+    "color": "Light Blue",
+    "hotSupport": false,
+    "image": "https://example.com/images/fiji.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "Kinley",
+    "size": "1.5L",
+    "price": 40,
+    "weight": "1.55kg",
+    "color": "Clear",
+    "hotSupport": true,
+    "image": "https://example.com/images/kinley.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "Evian",
+    "size": "330ml",
+    "price": 150,
+    "weight": "350g",
+    "color": "White",
+    "hotSupport": true,
+    "image": "https://example.com/images/evian.jpg"
+  },
+  {
+    "id": 6,
+    "brand": "Nestle Pure Life",
+    "size": "600ml",
+    "price": 25,
+    "weight": "620g",
+    "color": "Blue",
+    "hotSupport": false,
+    "image": "https://example.com/images/nestle.jpg"
+  },
+  {
+    "id": 7,
+    "brand": "Bisleri",
+    "size": "1L",
+    "price": 35,
+    "weight": "1.05kg",
+    "color": "Green",
+    "hotSupport": false,
+    "image": "https://example.com/images/bisleri.jpg"
+  },
+  {
+    "id": 8,
+    "brand": "Himalayan",
+    "size": "750ml",
+    "price": 130,
+    "weight": "780g",
+    "color": "Clear",
+    "hotSupport": false,
+    "image": "https://example.com/images/himalayan.jpg"
+  },
+  {
+    "id": 9,
+    "brand": "Glaceau Smartwater",
+    "size": "500ml",
+    "price": 110,
+    "weight": "510g",
+    "color": "Transparent",
+    "hotSupport": false,
+    "image": "https://example.com/images/smartwater.jpg"
+  },
+  {
+    "id": 10,
+    "brand": "Dasani",
+    "size": "1.5L",
+    "price": 45,
+    "weight": "1.55kg",
+    "color": "Blue",
+    "hotSupport": true,
+    "image": "https://example.com/images/dasani.jpg"
+  }
+]
